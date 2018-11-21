@@ -64,7 +64,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
             LayoutInflater inflater = (LayoutInflater)mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
              view = inflater.inflate(R.layout.group_item,null);
         }
-        TextView tvSection = view.findViewById(R.id.section);
+        TextView tvSection = view.findViewById(R.id.card_item_type);
         tvSection.setText(section);
 
         return view;

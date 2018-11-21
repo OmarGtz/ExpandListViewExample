@@ -97,31 +97,31 @@ public class MainActivity extends AppCompatActivity {
         childs = new HashMap<String, List<String>>();
 
         // Adding group header data
-        sections.add("Movie Names");
-        sections.add("Song Names");
-        sections.add("Book Names");
+        sections.add("61");
+        sections.add("62");
+        sections.add("63");
 
         // Adding child data
         List<String> movies = new ArrayList<String>();
-        movies.add("Avengers Infinity War");
-        movies.add("Deadpool 2");
-        movies.add("Doctor Strange");
-        movies.add("Fast and Furious 8");
-        movies.add("Ready Player One");
+        movies.add("6100001234");
+        movies.add("6100001234");
+        movies.add("6100001234");
+        movies.add("6100001234");
+        movies.add("6100001234");
 
         List<String> music = new ArrayList<String>();
-        music.add("Nucleya");
-        music.add("Shape of You");
-        music.add("Chainsmokers");
-        music.add("Back To You");
-        music.add("Despacito");
+        music.add("6200001234");
+        music.add("6200001234");
+        music.add("6200001234");
+        music.add("6200001234");
+        music.add("6200001234");
 
         List<String> books = new ArrayList<String>();
-        books.add("Sacred Games");
-        books.add("Our Mutual Friend");
-        books.add("Story of the Eye");
-        books.add("Mahabharata");
-        books.add("The Discovery of India\n");
+        books.add("6300001234");
+        books.add("6300001234");
+        books.add("6300001234");
+        books.add("6300001234");
+        books.add("6300001234");
 
         // Group header, Child data
         childs.put(sections.get(0), movies);

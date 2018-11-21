@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorBlueCard">#069bc1</color>
+    <color name="colorRedCard">#8c0c19</color>
+    <color name="colorGreenCard">#1E8877</color>
+
 </resources>
